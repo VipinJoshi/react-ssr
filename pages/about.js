@@ -1,4 +1,4 @@
-import withLayout from '../components/MyLayout';
+import withLayout from '../components/MyLayoutHOC';
 
 const Page = () => <p>This is the about page</p>;
 
