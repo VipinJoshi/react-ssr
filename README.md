@@ -5,7 +5,7 @@
 ## Requirements
 
 - node `^12.13.1`
-- npm '^6.12.1'
+- npm  `^6.12.1`
 
 1. **Install Node.js**: This app is powered by [Node.js](https://nodejs.org/en/).
 
